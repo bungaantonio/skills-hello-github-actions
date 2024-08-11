@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions, I am `bungadass`
+# Hello GitHub Actions, I am `BUNGADASS`
 
 _Create and run a GitHub Actions workflow._
 
